@@ -3,6 +3,6 @@
 This repository contains small excel projects 
 
 - Bike_Users
-- Interactive Dashboard
+- Sales Data Interactive Dashboard
 
 
